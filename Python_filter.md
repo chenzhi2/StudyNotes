@@ -6,7 +6,7 @@
 
 - filter函数返回的是一个Iterator，即一个惰性序列,需要用list()函数获得所有结果并返回list
 
--- 用filter求素数
+- 用filter求素数
 
     ```python
     def main():
